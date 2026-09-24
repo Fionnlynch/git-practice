@@ -2,3 +2,8 @@ Learning Git in 2 weeks
 I am mastering the local rhythm.
 Testing out branching for the first time!
 bug test
+
+--- HELPFUL GIT RESOURCES ---
+1. Learn Git Branching Game: https://js.org
+2. GitHub Skills Interactive Courses: https://github.com
+3. Git Cheat Sheet: https://github.com
