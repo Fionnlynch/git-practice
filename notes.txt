@@ -7,3 +7,5 @@ bug test
 1. Learn Git Branching Game: https://js.org
 2. GitHub Skills Interactive Courses: https://github.com
 3. Git Cheat Sheet: https://github.com
+
+I am a genius
